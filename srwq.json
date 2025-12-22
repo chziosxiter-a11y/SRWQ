@@ -3,10 +3,5 @@
     "key": "apelaxablauffx-s-ABC123XYZ",
     "status": "active",
     "expires_at": 1766000000
-  },
-  "apelaxablauffx-d-DEF456QWE": {
-    "key": "apelaxablauffx-d-DEF456QWE",
-    "status": "inactive",
-    "expires_at": 1769000000
   }
 }
