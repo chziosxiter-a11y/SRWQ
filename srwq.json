@@ -219,8 +219,9 @@
     "key": "apelaxablauffx-seconds-7KSGHSA28",
     "status": "active",
     "createdAt": 1766464628904,
-    "usedAt": null,
+    "usedAt": 1766465413105,
     "duration": 1000,
-    "durationText": "1 seconds"
+    "durationText": "1 seconds",
+    "expiresAt": 1766465414105
   }
 }
