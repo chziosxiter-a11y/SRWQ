@@ -2,6 +2,11 @@
   "logs": [
     {
       "action": "DELETE",
+      "key": "apelaxablauffx-permanent-D2D1F5PXK",
+      "time": "23/12/2025, 03:47:17"
+    },
+    {
+      "action": "DELETE",
       "key": "apelaxablauffx-seconds-TYMBMH4R3",
       "time": "23/12/2025, 03:47:08"
     },
@@ -483,14 +488,5 @@
     "usedAt": null,
     "duration": 1000,
     "durationText": "1 seconds"
-  },
-  "apelaxablauffx-permanent-D2D1F5PXK": {
-    "key": "apelaxablauffx-permanent-D2D1F5PXK",
-    "status": "active",
-    "createdAt": 1766471795064,
-    "usedAt": 1766471811325,
-    "duration": null,
-    "durationText": "1 permanent",
-    "expiresAt": 1766471812325
   }
 }
