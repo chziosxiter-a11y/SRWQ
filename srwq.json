@@ -547,8 +547,9 @@
     "key": "apelaxablauffx-hours-1Insj4AAGrMRMk6A",
     "status": "active",
     "createdAt": 1766518272984,
-    "usedAt": null,
+    "usedAt": 1766518368547,
     "duration": 3600000,
-    "durationText": "1 hours"
+    "durationText": "1 hours",
+    "expiresAt": 1766521968547
   }
 }
