@@ -1,6 +1,16 @@
 {
   "logs": [
     {
+      "action": "DELETE",
+      "key": "apelaxablauffx-seconds-QI31M3IY4",
+      "time": "23/12/2025, 01:50:48"
+    },
+    {
+      "action": "DELETE",
+      "key": "apelaxablauffx-seconds-7KSGHSA28",
+      "time": "23/12/2025, 01:50:46"
+    },
+    {
       "action": "CREATE",
       "key": "apelaxablauffx-seconds-7KSGHSA28",
       "time": "23/12/2025, 01:37:08"
@@ -201,27 +211,11 @@
     "expiresAt": 1766461655733,
     "durationText": "1 seconds"
   },
-  "apelaxablauffx-seconds-QI31M3IY4": {
-    "key": "apelaxablauffx-seconds-QI31M3IY4",
-    "status": "active",
-    "createdAt": 1766462636045,
-    "expiresAt": 1766462637045,
-    "durationText": "1 seconds"
-  },
   "apelaxablauffx-seconds-HGTSFSJI3": {
     "key": "apelaxablauffx-seconds-HGTSFSJI3",
     "status": "active",
     "createdAt": 1766462719138,
     "expiresAt": 1766462720138,
     "durationText": "1 seconds"
-  },
-  "apelaxablauffx-seconds-7KSGHSA28": {
-    "key": "apelaxablauffx-seconds-7KSGHSA28",
-    "status": "active",
-    "createdAt": 1766464628904,
-    "usedAt": 1766465413105,
-    "duration": 1000,
-    "durationText": "1 seconds",
-    "expiresAt": 1766465414105
   }
 }
