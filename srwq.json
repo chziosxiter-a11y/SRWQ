@@ -490,8 +490,9 @@
     "key": "apelaxablauffx-month-TA2G4JQF4",
     "status": "active",
     "createdAt": 1766472690838,
-    "usedAt": null,
+    "usedAt": 1766472700420,
     "duration": 2592000000,
-    "durationText": "1 month"
+    "durationText": "1 month",
+    "expiresAt": 1766472701420
   }
 }
