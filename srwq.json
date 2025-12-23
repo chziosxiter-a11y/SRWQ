@@ -493,8 +493,9 @@
     "key": "apelaxablauffx-seconds-TYMBMH4R3",
     "status": "active",
     "createdAt": 1766471426732,
-    "usedAt": null,
+    "usedAt": 1766471473593,
     "duration": 1000,
-    "durationText": "1 seconds"
+    "durationText": "1 seconds",
+    "expiresAt": 1766471474593
   }
 }
