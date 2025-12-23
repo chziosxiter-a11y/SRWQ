@@ -1,6 +1,11 @@
 {
   "logs": [
     {
+      "action": "CREATE",
+      "key": "apelaxablauffx-seconds-7KSGHSA28",
+      "time": "23/12/2025, 01:37:08"
+    },
+    {
       "action": "DELETE",
       "key": "apelaxablauffx-month-19JB44GIT",
       "time": "23/12/2025, 01:33:15"
@@ -208,6 +213,14 @@
     "status": "active",
     "createdAt": 1766462719138,
     "expiresAt": 1766462720138,
+    "durationText": "1 seconds"
+  },
+  "apelaxablauffx-seconds-7KSGHSA28": {
+    "key": "apelaxablauffx-seconds-7KSGHSA28",
+    "status": "active",
+    "createdAt": 1766464628904,
+    "usedAt": null,
+    "duration": 1000,
     "durationText": "1 seconds"
   }
 }
