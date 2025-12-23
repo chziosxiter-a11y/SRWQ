@@ -1,6 +1,11 @@
 {
   "logs": [
     {
+      "action": "DELETE",
+      "key": "apelaxablauffx-seconds-6O7TSDZ4E",
+      "time": "23/12/2025, 01:23:57"
+    },
+    {
       "action": "CREATE",
       "key": "apelaxablauffx-seconds-HGTSFSJI3",
       "time": "23/12/2025, 01:05:19"
@@ -165,18 +170,13 @@
     "key": "apelaxablauffx-month-19JB44GIT",
     "status": "active",
     "expiresAt": 1769051347941,
-    "durationText": "1 month"
+    "durationText": "1 month",
+    "firstUsedAt": 1766463824542
   },
   "apelaxablauffx-seconds-IY208HQQR": {
     "key": "apelaxablauffx-seconds-IY208HQQR",
     "status": "active",
     "expiresAt": 1766459416943,
-    "durationText": "1 seconds"
-  },
-  "apelaxablauffx-seconds-6O7TSDZ4E": {
-    "key": "apelaxablauffx-seconds-6O7TSDZ4E",
-    "status": "active",
-    "expiresAt": 1766460256214,
     "durationText": "1 seconds"
   },
   "apelaxablauffx-seconds-2OP2HZN40": {
