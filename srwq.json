@@ -1,6 +1,11 @@
 {
   "logs": [
     {
+      "action": "DELETE",
+      "key": "apelaxablauffx-hours-3ZQFPJGFI",
+      "time": "23/12/2025, 00:03:51"
+    },
+    {
       "action": "CREATE",
       "key": "apelaxablauffx-hours-3ZQFPJGFI",
       "time": "22/12/2025, 23:45:21"
@@ -105,11 +110,5 @@
       "key": "apelaxablauffx-d-2WXDZCK1A",
       "time": "22/12/2025, 20:38:22"
     }
-  ],
-  "apelaxablauffx-hours-3ZQFPJGFI": {
-    "key": "apelaxablauffx-hours-3ZQFPJGFI",
-    "status": "active",
-    "expiresAt": 1766461521428,
-    "durationText": "1 hours"
-  }
+  ]
 }
