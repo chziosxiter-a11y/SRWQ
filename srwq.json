@@ -1,6 +1,11 @@
 {
   "logs": [
     {
+      "action": "INACTIVE",
+      "key": "apelaxablauffx-seconds-ZE89TUKXF",
+      "time": "23/12/2025, 01:52:14"
+    },
+    {
       "action": "CREATE",
       "key": "apelaxablauffx-seconds-ZE89TUKXF",
       "time": "23/12/2025, 01:51:52"
@@ -225,7 +230,7 @@
   },
   "apelaxablauffx-seconds-ZE89TUKXF": {
     "key": "apelaxablauffx-seconds-ZE89TUKXF",
-    "status": "active",
+    "status": "inactive",
     "createdAt": 1766465512083,
     "usedAt": null,
     "duration": 1000,
