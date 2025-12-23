@@ -2,6 +2,11 @@
   "logs": [
     {
       "action": "CREATE",
+      "key": "OI",
+      "time": "23/12/2025, 16:31:01"
+    },
+    {
+      "action": "CREATE",
       "key": "apelaxablauffx-seconds-U9E8AGS1K",
       "time": "23/12/2025, 15:27:40"
     },
@@ -527,5 +532,13 @@
     "duration": 2000,
     "durationText": "2 seconds",
     "expiresAt": 1766514474166
+  },
+  "OI": {
+    "key": "OI",
+    "status": "active",
+    "createdAt": 1766518261726,
+    "usedAt": null,
+    "duration": 86400000,
+    "durationText": "1 days"
   }
 }
