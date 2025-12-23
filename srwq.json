@@ -500,8 +500,9 @@
     "key": "apelaxablauffx-minutes-MAXQHSYVW",
     "status": "active",
     "createdAt": 1766472965276,
-    "usedAt": null,
+    "usedAt": 1766473030799,
     "duration": 60000,
-    "durationText": "1 minutes"
+    "durationText": "1 minutes",
+    "expiresAt": 1766473090799
   }
 }
