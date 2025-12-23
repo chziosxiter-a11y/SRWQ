@@ -498,8 +498,9 @@
     "key": "apelaxablauffx-permanent-D2D1F5PXK",
     "status": "active",
     "createdAt": 1766471795064,
-    "usedAt": null,
+    "usedAt": 1766471811325,
     "duration": null,
-    "durationText": "1 permanent"
+    "durationText": "1 permanent",
+    "expiresAt": 1766471812325
   }
 }
