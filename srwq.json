@@ -765,8 +765,9 @@
     "key": "apelaxablauffx-minutes-6R17YNAK9",
     "status": "active",
     "createdAt": 1766618256479,
-    "usedAt": null,
+    "usedAt": 1766618294760,
     "duration": 240000,
-    "durationText": "4 minutes"
+    "durationText": "4 minutes",
+    "expiresAt": 1766618534760
   }
 }
