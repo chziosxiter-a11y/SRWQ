@@ -2,6 +2,11 @@
   "logs": [
     {
       "action": "CREATE",
+      "key": "apelaxablauffx-seconds-Y910CYFFI",
+      "time": "24/12/2025, 19:49:36"
+    },
+    {
+      "action": "CREATE",
       "key": "apelaxablauffx-hours-09SUPNTGX",
       "time": "24/12/2025, 19:43:47"
     },
@@ -659,5 +664,13 @@
     "usedAt": null,
     "duration": 3600000,
     "durationText": "1 hours"
+  },
+  "apelaxablauffx-seconds-Y910CYFFI": {
+    "key": "apelaxablauffx-seconds-Y910CYFFI",
+    "status": "active",
+    "createdAt": 1766616576082,
+    "usedAt": null,
+    "duration": 5000,
+    "durationText": "5 seconds"
   }
 }
