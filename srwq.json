@@ -2,6 +2,11 @@
   "logs": [
     {
       "action": "CREATE",
+      "key": "apelaxablauffx-minutes-6R17YNAK9",
+      "time": "24/12/2025, 20:17:36"
+    },
+    {
+      "action": "CREATE",
       "key": "apelaxablauffx-seconds-U2DINZ3F6",
       "time": "24/12/2025, 20:16:17"
     },
@@ -755,5 +760,13 @@
     "duration": 5000,
     "durationText": "5 seconds",
     "expiresAt": 1766618195352
+  },
+  "apelaxablauffx-minutes-6R17YNAK9": {
+    "key": "apelaxablauffx-minutes-6R17YNAK9",
+    "status": "active",
+    "createdAt": 1766618256479,
+    "usedAt": null,
+    "duration": 240000,
+    "durationText": "4 minutes"
   }
 }
