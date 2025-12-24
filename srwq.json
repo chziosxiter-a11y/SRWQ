@@ -696,8 +696,9 @@
     "key": "apelaxablauffx-seconds-GIG10MRB5",
     "status": "active",
     "createdAt": 1766616993623,
-    "usedAt": null,
+    "usedAt": 1766617006231,
     "duration": 4000,
-    "durationText": "4 seconds"
+    "durationText": "4 seconds",
+    "expiresAt": 1766617010231
   }
 }
