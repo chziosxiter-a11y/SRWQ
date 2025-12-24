@@ -620,8 +620,9 @@
     "key": "apelaxablauffx-seconds-O3AUNKGHS",
     "status": "active",
     "createdAt": 1766615395796,
-    "usedAt": null,
+    "usedAt": 1766615407156,
     "duration": 5000,
-    "durationText": "5 seconds"
+    "durationText": "5 seconds",
+    "expiresAt": 1766615412156
   }
 }
