@@ -2,6 +2,11 @@
   "logs": [
     {
       "action": "DELETE",
+      "key": "apelaxablauffx-seconds-U2DINZ3F6",
+      "time": "24/12/2025, 20:22:20"
+    },
+    {
+      "action": "DELETE",
       "key": "apelaxablauffx-seconds-7IGZ0SQW1",
       "time": "24/12/2025, 20:22:11"
     },
@@ -716,15 +721,6 @@
       "time": "22/12/2025, 20:38:22"
     }
   ],
-  "apelaxablauffx-seconds-U2DINZ3F6": {
-    "key": "apelaxablauffx-seconds-U2DINZ3F6",
-    "status": "active",
-    "createdAt": 1766618177770,
-    "usedAt": 1766618190352,
-    "duration": 5000,
-    "durationText": "5 seconds",
-    "expiresAt": 1766618195352
-  },
   "apelaxablauffx-minutes-6R17YNAK9": {
     "key": "apelaxablauffx-minutes-6R17YNAK9",
     "status": "active",
