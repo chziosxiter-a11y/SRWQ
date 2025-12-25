@@ -911,8 +911,9 @@
     "key": "apelaxablauffx-seconds-UMWSQ591A",
     "status": "active",
     "createdAt": 1766688909028,
-    "usedAt": null,
+    "usedAt": 1766688934900,
     "duration": 5000,
-    "durationText": "5 seconds"
+    "durationText": "5 seconds",
+    "expiresAt": 1766688939900
   }
 }
