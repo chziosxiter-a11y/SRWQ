@@ -1,6 +1,11 @@
 {
   "logs": [
     {
+      "action": "INACTIVE",
+      "key": "apelaxablauffx-hours-STUW5H4ZV",
+      "time": "24/12/2025, 22:48:41"
+    },
+    {
       "action": "DELETE",
       "key": "apelaxablauffx-days-3JF4F033C",
       "time": "24/12/2025, 22:48:27"
@@ -811,7 +816,7 @@
   },
   "apelaxablauffx-hours-STUW5H4ZV": {
     "key": "apelaxablauffx-hours-STUW5H4ZV",
-    "status": "active",
+    "status": "inactive",
     "createdAt": 1766627103682,
     "usedAt": 1766627197161,
     "duration": 3600000,
