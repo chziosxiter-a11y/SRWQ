@@ -925,8 +925,9 @@
     "key": "apelaxablauffx-month-UHPAWP6B7",
     "status": "active",
     "createdAt": 1766689047589,
-    "usedAt": null,
+    "usedAt": 1766689075654,
     "duration": 2592000000,
-    "durationText": "1 month"
+    "durationText": "1 month",
+    "expiresAt": 1769281075654
   }
 }
