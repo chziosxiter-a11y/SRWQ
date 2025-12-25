@@ -959,8 +959,9 @@
     "key": "apelaxablauffx-days-B163IDZSI",
     "status": "active",
     "createdAt": 1766691766694,
-    "usedAt": null,
+    "usedAt": 1766692091786,
     "duration": 604800000,
-    "durationText": "7 days"
+    "durationText": "7 days",
+    "expiresAt": 1767296891786
   }
 }
