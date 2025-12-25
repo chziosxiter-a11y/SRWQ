@@ -825,8 +825,9 @@
     "key": "apelaxablauffx-days-PHHWUHUZA",
     "status": "active",
     "createdAt": 1766627131629,
-    "usedAt": null,
+    "usedAt": 1766627163033,
     "duration": 604800000,
-    "durationText": "7 days"
+    "durationText": "7 days",
+    "expiresAt": 1767231963033
   }
 }
