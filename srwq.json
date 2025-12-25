@@ -2,6 +2,11 @@
   "logs": [
     {
       "action": "CREATE",
+      "key": "apelaxablauffx-seconds-AWESTGAG3",
+      "time": "24/12/2025, 21:32:30"
+    },
+    {
+      "action": "CREATE",
       "key": "apelaxablauffx-hours-9WE4I8HOQ",
       "time": "24/12/2025, 21:24:34"
     },
@@ -763,5 +768,13 @@
     "key": "apelaxablauffx-hour-tw3vpot5",
     "status": "active",
     "createdAt": 1766622620104
+  },
+  "apelaxablauffx-seconds-AWESTGAG3": {
+    "key": "apelaxablauffx-seconds-AWESTGAG3",
+    "status": "active",
+    "createdAt": 1766622750307,
+    "usedAt": null,
+    "duration": 1000,
+    "durationText": "1 seconds"
   }
 }
