@@ -1,6 +1,11 @@
 {
   "logs": [
     {
+      "action": "ACTIVE",
+      "key": "apelaxablauffx-month-UHPAWP6B7",
+      "time": "25/12/2025, 16:01:26"
+    },
+    {
       "action": "INACTIVE",
       "key": "apelaxablauffx-month-UHPAWP6B7",
       "time": "25/12/2025, 16:00:42"
@@ -928,7 +933,7 @@
   },
   "apelaxablauffx-month-UHPAWP6B7": {
     "key": "apelaxablauffx-month-UHPAWP6B7",
-    "status": "inactive",
+    "status": "active",
     "createdAt": 1766689047589,
     "usedAt": 1766689075654,
     "duration": 2592000000,
