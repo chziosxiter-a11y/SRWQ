@@ -1,6 +1,11 @@
 {
   "logs": [
     {
+      "action": "CREATE",
+      "key": "apelaxablauffx-seconds-UMWSQ591A",
+      "time": "25/12/2025, 15:55:09"
+    },
+    {
       "action": "DELETE",
       "key": "apelaxablauffx-second-3RNDK75CS",
       "time": "25/12/2025, 02:17:50"
@@ -901,5 +906,13 @@
     "duration": 604800000,
     "durationText": "7 days",
     "expiresAt": 1767233219282
+  },
+  "apelaxablauffx-seconds-UMWSQ591A": {
+    "key": "apelaxablauffx-seconds-UMWSQ591A",
+    "status": "active",
+    "createdAt": 1766688909028,
+    "usedAt": null,
+    "duration": 5000,
+    "durationText": "5 seconds"
   }
 }
