@@ -2,6 +2,11 @@
   "logs": [
     {
       "action": "DELETE",
+      "key": "apelaxablauffx-hour-N0Q976KMU",
+      "time": "25/12/2025, 02:15:13"
+    },
+    {
+      "action": "DELETE",
       "key": "apelaxablauffx-seconds-MTTS6TVFO",
       "time": "25/12/2025, 01:45:26"
     },
@@ -886,12 +891,5 @@
     "duration": 604800000,
     "durationText": "7 days",
     "expiresAt": 1767233219282
-  },
-  "apelaxablauffx-hour-N0Q976KMU": {
-    "key": "apelaxablauffx-hour-N0Q976KMU",
-    "status": "unlocked",
-    "createdAt": 1766639681417,
-    "usedAt": null,
-    "duration": 3600000
   }
 }
