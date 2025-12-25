@@ -1,6 +1,11 @@
 {
   "logs": [
     {
+      "action": "RESET",
+      "key": "apelaxablauffx-seconds-MTTS6TVFO",
+      "time": "25/12/2025, 01:45:19"
+    },
+    {
       "action": "CREATE",
       "key": "apelaxablauffx-seconds-MTTS6TVFO",
       "time": "25/12/2025, 01:45:03"
@@ -883,6 +888,7 @@
     "createdAt": 1766637903060,
     "usedAt": null,
     "duration": 1000,
-    "durationText": "1 seconds"
+    "durationText": "1 seconds",
+    "expiresAt": 1766637904060
   }
 }
