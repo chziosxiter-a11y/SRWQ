@@ -1,6 +1,11 @@
 {
   "logs": [
     {
+      "action": "DELETE",
+      "key": "apelaxablauffx-second-3RNDK75CS",
+      "time": "25/12/2025, 02:17:50"
+    },
+    {
       "action": "CREATE",
       "key": "apelaxablauffx-second-3RNDK75CS",
       "time": "25/12/2025, 02:17:32"
@@ -896,13 +901,5 @@
     "duration": 604800000,
     "durationText": "7 days",
     "expiresAt": 1767233219282
-  },
-  "apelaxablauffx-second-3RNDK75CS": {
-    "key": "apelaxablauffx-second-3RNDK75CS",
-    "status": "active",
-    "createdAt": 1766639852958,
-    "usedAt": null,
-    "duration": null,
-    "durationText": "1 second"
   }
 }
