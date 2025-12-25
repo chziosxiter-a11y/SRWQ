@@ -2,6 +2,11 @@
   "logs": [
     {
       "action": "CREATE",
+      "key": "apelaxablauffx-days-PHHWUHUZA",
+      "time": "24/12/2025, 22:45:31"
+    },
+    {
+      "action": "CREATE",
       "key": "apelaxablauffx-hours-STUW5H4ZV",
       "time": "24/12/2025, 22:45:03"
     },
@@ -815,5 +820,13 @@
     "usedAt": null,
     "duration": 3600000,
     "durationText": "1 hours"
+  },
+  "apelaxablauffx-days-PHHWUHUZA": {
+    "key": "apelaxablauffx-days-PHHWUHUZA",
+    "status": "active",
+    "createdAt": 1766627131629,
+    "usedAt": null,
+    "duration": 604800000,
+    "durationText": "7 days"
   }
 }
