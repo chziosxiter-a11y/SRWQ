@@ -2,6 +2,11 @@
   "logs": [
     {
       "action": "CREATE",
+      "key": "apelaxablauffx-month-UHPAWP6B7",
+      "time": "25/12/2025, 15:57:27"
+    },
+    {
+      "action": "CREATE",
       "key": "apelaxablauffx-seconds-UMWSQ591A",
       "time": "25/12/2025, 15:55:09"
     },
@@ -915,5 +920,13 @@
     "duration": 5000,
     "durationText": "5 seconds",
     "expiresAt": 1766688939900
+  },
+  "apelaxablauffx-month-UHPAWP6B7": {
+    "key": "apelaxablauffx-month-UHPAWP6B7",
+    "status": "active",
+    "createdAt": 1766689047589,
+    "usedAt": null,
+    "duration": 2592000000,
+    "durationText": "1 month"
   }
 }
