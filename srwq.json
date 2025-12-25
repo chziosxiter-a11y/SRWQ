@@ -817,9 +817,10 @@
     "key": "apelaxablauffx-hours-STUW5H4ZV",
     "status": "active",
     "createdAt": 1766627103682,
-    "usedAt": null,
+    "usedAt": 1766627197161,
     "duration": 3600000,
-    "durationText": "1 hours"
+    "durationText": "1 hours",
+    "expiresAt": 1766630797161
   },
   "apelaxablauffx-days-PHHWUHUZA": {
     "key": "apelaxablauffx-days-PHHWUHUZA",
