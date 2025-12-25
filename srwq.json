@@ -1,6 +1,11 @@
 {
   "logs": [
     {
+      "action": "CREATE",
+      "key": "apelaxablauffx-seconds-MTTS6TVFO",
+      "time": "25/12/2025, 01:45:03"
+    },
+    {
       "action": "DELETE",
       "key": "apelaxablauffx-seconds-1UMYK5NYH",
       "time": "25/12/2025, 01:36:10"
@@ -861,7 +866,7 @@
     "usedAt": 1766627163033,
     "duration": 604800000,
     "durationText": "7 days",
-    "expiresAt": 1767231963033
+    "expiresAt": 1767231931629
   },
   "apelaxablauffx-days-W4KBSLTF0": {
     "key": "apelaxablauffx-days-W4KBSLTF0",
@@ -870,6 +875,14 @@
     "usedAt": 1766628563966,
     "duration": 604800000,
     "durationText": "7 days",
-    "expiresAt": 1767233363966
+    "expiresAt": 1767233219282
+  },
+  "apelaxablauffx-seconds-MTTS6TVFO": {
+    "key": "apelaxablauffx-seconds-MTTS6TVFO",
+    "status": "active",
+    "createdAt": 1766637903060,
+    "usedAt": null,
+    "duration": 1000,
+    "durationText": "1 seconds"
   }
 }
