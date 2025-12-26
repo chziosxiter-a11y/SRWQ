@@ -965,8 +965,9 @@
     "key": "apelaxablauffx-seconds-7RFN68P99",
     "status": "active",
     "createdAt": 1766711070920,
-    "usedAt": null,
+    "usedAt": 1766711082356,
     "duration": 5000,
-    "durationText": "5 seconds"
+    "durationText": "5 seconds",
+    "expiresAt": 1766711087356
   }
 }
