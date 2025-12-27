@@ -1,6 +1,11 @@
 {
   "logs": [
     {
+      "action": "INACTIVE",
+      "key": "apelaxablauffx-days-99MIQAM4N",
+      "time": "27/12/2025, 18:28:33"
+    },
+    {
       "action": "CREATE",
       "key": "apelaxablauffx-days-99MIQAM4N",
       "time": "27/12/2025, 15:51:50"
@@ -1007,7 +1012,7 @@
   },
   "apelaxablauffx-days-99MIQAM4N": {
     "key": "apelaxablauffx-days-99MIQAM4N",
-    "status": "active",
+    "status": "inactive",
     "createdAt": 1766861510524,
     "usedAt": 1766861926733,
     "duration": 604800000,
