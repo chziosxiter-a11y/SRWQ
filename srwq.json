@@ -1,6 +1,11 @@
 {
   "logs": [
     {
+      "action": "INACTIVE",
+      "key": "apelaxablauffx-hours-8KDBLJ7X3",
+      "time": "27/12/2025, 03:24:57"
+    },
+    {
       "action": "CREATE",
       "key": "apelaxablauffx-hours-8KDBLJ7X3",
       "time": "27/12/2025, 03:24:23"
@@ -973,7 +978,7 @@
   },
   "apelaxablauffx-hours-8KDBLJ7X3": {
     "key": "apelaxablauffx-hours-8KDBLJ7X3",
-    "status": "active",
+    "status": "inactive",
     "createdAt": 1766816663558,
     "usedAt": 1766816675105,
     "duration": 3600000,
