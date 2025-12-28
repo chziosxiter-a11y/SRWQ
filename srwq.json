@@ -1,6 +1,11 @@
 {
   "logs": [
     {
+      "action": "DELETE",
+      "key": "apelaxablauffx-seconds-D2787MHZF",
+      "time": "27/12/2025, 21:50:18"
+    },
+    {
       "action": "CREATE",
       "key": "apelaxablauffx-seconds-D2787MHZF",
       "time": "27/12/2025, 21:50:12"
@@ -1086,13 +1091,5 @@
     "usedAt": null,
     "duration": 604800000,
     "durationText": "7 days"
-  },
-  "apelaxablauffx-seconds-D2787MHZF": {
-    "key": "apelaxablauffx-seconds-D2787MHZF",
-    "status": "active",
-    "createdAt": 1766883012390,
-    "usedAt": null,
-    "duration": 1000,
-    "durationText": "1 seconds"
   }
 }
