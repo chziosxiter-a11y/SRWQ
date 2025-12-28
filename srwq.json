@@ -1106,9 +1106,10 @@
     "key": "apelaxablauffx-days-1RHNUS3S9",
     "status": "active",
     "createdAt": 1766883041791,
-    "usedAt": null,
+    "usedAt": 1766883118769,
     "duration": 604800000,
-    "durationText": "7 days"
+    "durationText": "7 days",
+    "expiresAt": 1767487918769
   },
   "apelaxablauffx-days-A72PH41AO": {
     "key": "apelaxablauffx-days-A72PH41AO",
