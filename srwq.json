@@ -1543,6 +1543,8 @@
   "Picpay": {
     "createdAt": 1766902119107,
     "duration": 2592000000,
-    "status": "active"
+    "status": "active",
+    "usedAt": 1766902126714,
+    "expiresAt": 1769494126714
   }
 }
