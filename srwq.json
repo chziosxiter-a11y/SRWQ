@@ -2,6 +2,11 @@
   "logs": [
     {
       "action": "CREATE",
+      "key": "apelaxablauffx-days-ETE6PUNL8",
+      "time": "27/12/2025, 21:49:53"
+    },
+    {
+      "action": "CREATE",
       "key": "apelaxablauffx-days-K47D6MPSF",
       "time": "27/12/2025, 21:49:35"
     },
@@ -1052,6 +1057,14 @@
     "key": "apelaxablauffx-days-K47D6MPSF",
     "status": "active",
     "createdAt": 1766882975940,
+    "usedAt": null,
+    "duration": 604800000,
+    "durationText": "7 days"
+  },
+  "apelaxablauffx-days-ETE6PUNL8": {
+    "key": "apelaxablauffx-days-ETE6PUNL8",
+    "status": "active",
+    "createdAt": 1766882993273,
     "usedAt": null,
     "duration": 604800000,
     "durationText": "7 days"
