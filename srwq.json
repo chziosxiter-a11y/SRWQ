@@ -1028,8 +1028,9 @@
     "key": "apelaxablauffx-days-K95F0BNR7",
     "status": "active",
     "createdAt": 1766882502624,
-    "usedAt": null,
+    "usedAt": 1766882588441,
     "duration": 604800000,
-    "durationText": "7 days"
+    "durationText": "7 days",
+    "expiresAt": 1767487388441
   }
 }
