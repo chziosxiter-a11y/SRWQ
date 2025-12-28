@@ -1,6 +1,11 @@
 {
   "logs": [
     {
+      "action": "CREATE",
+      "key": "apelaxablauffx-days-K95F0BNR7",
+      "time": "27/12/2025, 21:41:42"
+    },
+    {
       "action": "INACTIVE",
       "key": "apelaxablauffx-days-99MIQAM4N",
       "time": "27/12/2025, 18:28:33"
@@ -1018,5 +1023,13 @@
     "duration": 604800000,
     "durationText": "7 days",
     "expiresAt": 1767466726733
+  },
+  "apelaxablauffx-days-K95F0BNR7": {
+    "key": "apelaxablauffx-days-K95F0BNR7",
+    "status": "active",
+    "createdAt": 1766882502624,
+    "usedAt": null,
+    "duration": 604800000,
+    "durationText": "7 days"
   }
 }
