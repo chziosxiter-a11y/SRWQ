@@ -2,6 +2,11 @@
   "logs": [
     {
       "action": "DELETE",
+      "key": "apelaxablauffx-days-RR43L34CZ",
+      "time": "27/12/2025, 22:02:41"
+    },
+    {
+      "action": "DELETE",
       "key": "apelaxablauffx-days-U2YB9IEQN",
       "time": "27/12/2025, 22:02:39"
     },
@@ -1201,14 +1206,6 @@
   },
   "apelaxablauffx-days-0KYWZZEJ2": {
     "key": "apelaxablauffx-days-0KYWZZEJ2",
-    "status": "active",
-    "createdAt": 1766883690524,
-    "usedAt": null,
-    "duration": 604800000,
-    "durationText": "7 days"
-  },
-  "apelaxablauffx-days-RR43L34CZ": {
-    "key": "apelaxablauffx-days-RR43L34CZ",
     "status": "active",
     "createdAt": 1766883690524,
     "usedAt": null,
