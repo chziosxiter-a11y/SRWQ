@@ -2,6 +2,8 @@
   "Picamodz": {
     "createdAt": 1766902308220,
     "duration": 2592000000,
-    "status": "active"
+    "status": "active",
+    "usedAt": 1766902315369,
+    "expiresAt": 1769494315369
   }
 }
