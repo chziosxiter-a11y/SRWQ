@@ -1141,8 +1141,9 @@
     "key": "apelaxablauffx-seconds-NJQ4G6PSZ",
     "status": "active",
     "createdAt": 1766883267798,
-    "usedAt": null,
+    "usedAt": 1766883392559,
     "duration": 3000,
-    "durationText": "3 seconds"
+    "durationText": "3 seconds",
+    "expiresAt": 1766883395559
   }
 }
