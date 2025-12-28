@@ -1539,5 +1539,10 @@
     "createdAt": 1766902047727,
     "duration": 2592000000,
     "status": "active"
+  },
+  "Picpay": {
+    "createdAt": 1766902119107,
+    "duration": 2592000000,
+    "status": "active"
   }
 }
