@@ -10,8 +10,21 @@
   "logs": [
     {
       "action": "CREATE",
+      "key": "apelaxablauffx-days-HiXTgFEQ7ilCnvqe",
+      "time": "03/01/2026, 22:57:50"
+    },
+    {
+      "action": "CREATE",
       "key": "apelaxablauffx-days-J2Y04NMbp2wKk7yH",
       "time": "03/01/2026, 22:57:43"
     }
-  ]
+  ],
+  "apelaxablauffx-days-HiXTgFEQ7ilCnvqe": {
+    "key": "apelaxablauffx-days-HiXTgFEQ7ilCnvqe",
+    "status": "active",
+    "createdAt": 1767491870133,
+    "usedAt": null,
+    "duration": 86400000,
+    "durationText": "1 days"
+  }
 }
