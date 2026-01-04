@@ -1,13 +1,18 @@
 {
   "apelaxablauffx-days-J2Y04NMbp2wKk7yH": {
     "key": "apelaxablauffx-days-J2Y04NMbp2wKk7yH",
-    "status": "active",
+    "status": "inactive",
     "createdAt": 1767491863210,
     "usedAt": null,
     "duration": 86400000,
     "durationText": "1 days"
   },
   "logs": [
+    {
+      "action": "INACTIVE",
+      "key": "apelaxablauffx-days-J2Y04NMbp2wKk7yH",
+      "time": "03/01/2026, 22:57:54"
+    },
     {
       "action": "CREATE",
       "key": "apelaxablauffx-days-HiXTgFEQ7ilCnvqe",
